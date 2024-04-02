@@ -560,3 +560,7 @@ h3{
     justify-content: space-around;
 }
 
+.rating .fa{
+    color: orange;
+}
+
